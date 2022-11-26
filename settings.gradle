@@ -1,0 +1,3 @@
+rootProject.name = 'Swim-Auto-Recolor-Tool'
+include 'Recolor'
+
