@@ -22,3 +22,25 @@ hue shifting is highly reccomended, but tinting can be useful for brute forcing 
 <br>
 <br>
 ![image](https://user-images.githubusercontent.com/63020914/204092095-f52e5ea6-1909-4a0f-81fb-7505044ff468.png)
+# Directory Sorting
+![image](https://user-images.githubusercontent.com/63020914/204092221-6d27094c-f8ef-46e4-8306-c497698d5984.png)
+<br>
+<br>
+Select which files of each folder to show in the button grid for a cleaner and sorted work flow
+# Settings Tab Guide
+![image](https://user-images.githubusercontent.com/63020914/204092280-8386d336-6d5e-4787-9570-5b0a67842f60.png)
+<br>
+<br>
+It is highly recommended you click the "Change Export Path" button to control where exported recolor packs write to.
+The "View Configs" and "View Exports" buttons opens the folders in file explorer where configs and exported recolors are saved to.
+# Adding a config
+![image](https://user-images.githubusercontent.com/63020914/204092590-836802e7-d301-46d4-ba0b-f140ba194874.png)
+<br>
+<br>
+Pressing the View Configs button opens your configs folder in roaming app data, unlike the export folder, this folder location can never be changed.
+<br>
+To add configs simply create txt files with any name and start writing each file name you want to be automatically recolored on individual lines.
+<br>
+Use the image above as a reference guide, this exact default txt config will be generated on start.
+<br>
+Do not worry about the export.config, that is where your exported packs path data is saved.
