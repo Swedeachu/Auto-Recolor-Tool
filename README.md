@@ -18,7 +18,7 @@ Drag and drop an MCPACK/zip file or folder onto the import button. The pack will
 # Click the Current Color button to pick the color to recolor images to
 ![image](https://user-images.githubusercontent.com/63020914/204092038-ba747d44-97ff-4e9f-aa8b-b01d181755b8.png)
 # Select the image recoloring algorithm you prefer
-hue shifting is highly reccomended, but tinting can be useful for brute forcing color overlays on darker images
+Hue shifting is highly reccomended, but tinting can be useful for brute forcing color overlays on darker images
 <br>
 <br>
 ![image](https://user-images.githubusercontent.com/63020914/204092095-f52e5ea6-1909-4a0f-81fb-7505044ff468.png)
