@@ -49,3 +49,10 @@ Do not worry about the export.config, that is where your exported packs path dat
 <br>
 <br>
 In the settings tab click Apply Config, then check off all the desired configs. Finally, press Apply Selected Configs
+# Exporting Recolored Packs
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/63020914/204093869-0881c278-b8df-4e35-b54d-6a0ac6625ea7.gif)
+<br>
+<br>
+To export a pack once you have finished recoloring it, press the Build Pack button and enter a pack name.
+<br>
+The pack will then build to your export folder. When done, an alert message will appear informing you of the path the pack was exported to.
