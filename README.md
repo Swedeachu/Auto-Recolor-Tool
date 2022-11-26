@@ -1,2 +1,2 @@
-# Auto-Recolor-Tool
+# Swim Auto Pack Recolor Tool
 Allows easy mass file hue shifting and tinting, specifically for Minecraft texture packs
