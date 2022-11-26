@@ -44,7 +44,7 @@ To add configs simply create txt files with any name and start writing each file
 Use the image above as a reference guide, this exact default txt config will be generated on start.
 <br>
 Do not worry about the export.config, that is where your exported packs path data is saved.
-# Applying a config
+# Applying a config (automation)
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/63020914/204093402-2f1acd6f-1b87-4e11-afab-8d5693df58a1.gif)
 <br>
 <br>
